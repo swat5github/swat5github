@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Swatej
 - 👀 I’m interested in working on projects
 - 🌱 I’m currently learning Web Development
-- (*￣3￣)╭ I love to work with diffrrent people  
+- (*￣3￣)╭ I love to work with different people  
 
 <!---
 swat5github/swat5github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
